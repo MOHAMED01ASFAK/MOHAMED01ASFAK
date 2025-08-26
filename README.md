@@ -20,6 +20,29 @@
 
 ---
 
+### 🌟 Featured Projects  
+- 📊 [**Blinkit Sales Dashboard (Power BI)**](https://github.com/MOHAMED01ASFAK/Powerbi_project/blob/main/blinkitData_analysis.pbix)  
+- 🎬 [**Netflix Data Analysis (Power BI)**](https://github.com/MOHAMED01ASFAK/Powerbi_project/blob/main/Netflix_eda.pbix)  
+- 🐍 [**Python Data Science Mini Projects**](#) *(Add link when uploaded)*  
+
+---
+
+### 🏆 Achievements & Certifications  
+- 🥇 **Internship in Data Science @ IPCS Global**  
+- 📜 **Certified in SQL & Python (add platform if you have it)**  
+- 📜 **Power BI Advanced Dashboard Design (if completed)**  
+*(Tip: Add badges or links to certificates here)*  
+
+---
+
+### 📌 My Goals for 2025  
+- ✅ Master **Data Science & Machine Learning**  
+- ✅ Build **10+ Real-World Data Projects**  
+- ✅ Contribute to **Open Source ML/AI Projects**  
+- ✅ Land a role as a **Data Scientist in a top MNC**  
+
+---
+
 ### 🌐 Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/mohamed-ashfag-a-54715521b/" target="_blank">
@@ -53,6 +76,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed01asfak&theme=radical" alt="streak" />
+</p>
+
+---
+
+### 📈 Profile Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamed01asfak&theme=dracula&margin-w=15&margin-h=15" alt="trophies"/>
 </p>
 
 ---
