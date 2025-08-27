@@ -67,20 +67,6 @@ From Code to Insights | Computer Science Engineer | Data Science Intern | Power 
 
 ---
 
-### 🏆 Profile Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamed01asfak&theme=dracula&margin-w=15&margin-h=15" alt="trophies"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohamed01asfak/mohamed01asfak/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p>
-
----
-
 ### ☕ Support My Work  
 <p>
   <a href="https://www.buymeacoffee.com/mohdashfag01">
