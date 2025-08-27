@@ -1,54 +1,57 @@
-## Hi there 👋 It's me Mohamed Ashfag  
+## Hi there 👋 It's me Mohamed Ashfag
 
 From Code to Insights | Computer Science Engineer | Data Science Intern | Power BI • SQL • Python  
-
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Here's my [Portfolio](https://hareesh.web.app/)  
-- 🌱 I’m currently learning **Data Science & Advanced Python**  
-- 👯 I’m looking to collaborate on **ML/AI & Data Analytics Projects**  
-- 🤔 I’m looking for help with **placements and internships**  
-- 💬 Ask me about **Python, SQL, Data Science & Web Dev**  
-- 📫 Reach me on :  
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)  
-  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/?utm_source=pwa_homescreen&__pwa=1)  
-- 😄 Pronouns: Techie  
-- ⚡ Fun fact: I know Japanese.  
+- 🌱 I’m currently learning **DSA & Data Science**  
+- 👯 I’m looking to collaborate on **ML / AI Projects**  
+- 🤔 I’m looking for help with **Placements in FAANG**  
+- 💬 Ask me about **Tech | Python | Web Development | Power BI**  
+- 📫 Reach me:  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hareesh_dev) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hareesh-r/)  
+- 😄 Pronouns: **Techie**  
+- ⚡ Fun fact: I know **Japanese**  
 
 ---
 
-### 🛠️ I Code In
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
+### 🚀 I Code in
+<p align="left">
+  <img height="50" src="https://img.icons8.com/color/48/python.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/c-programming.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/html-5.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/css3.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/javascript.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/mongodb.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/react-native.png"/>
+</p>
 
 ---
 
-### ⚙️ IDE & Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> 
-<img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> 
-<img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
+### 🛠️ IDE & Tools I Use
+<p align="left">
+  <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/pycharm.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/git.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/anaconda.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/notion--v1.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/adobe-photoshop.png"/>
+</p>
 
 ---
 
-### 💻 Workspace Specs
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>  
+### 💻 Workspace Spec
+<p>
+  <img src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+</p>
 
 ---
 
@@ -60,19 +63,21 @@ From Code to Insights | Computer Science Engineer | Data Science Intern | Power 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed01asfak&theme=radical" alt="streak" />
-</p>  
+</p>
 
 ---
 
-### 📈 Profile Trophies  
+### 🏆 Profile Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohamed01asfak&theme=dracula&margin-w=15&margin-h=15" alt="trophies"/>
-</p>  
+</p>
 
 ---
 
-### 🐍 Contribution Snake  
-![snake gif](https://github.com/mohamed01asfak/mohamed01asfak/blob/output/dist/snake.svg)
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohamed01asfak/mohamed01asfak/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
 
 ---
 
